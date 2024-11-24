@@ -1,4 +1,4 @@
-# LogicDesign2018  
+# 2018_LogicDesign  
 
 Randy H. Katz and Gaetano Borriello, Contemporary Logic Design, 2nd Edition, Prentice Hall  
 
